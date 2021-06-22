@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+.dropdown {
+    width: 50em;
+}
+
+.textarea {
+    width: 50em;    
+    height: 50em;
+}
+
+.body {
+    padding: 0.5rem;
+    background-color: purple;
+    color: brown;
+    font-size: 1rem; 
+    border-radius: 25px;
+}
+
+.textarea {
+    font-family: "lobster";
+    font-size: 1.5em;
+    letter-spacing: 2px;
+}

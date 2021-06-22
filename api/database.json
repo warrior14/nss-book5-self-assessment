@@ -1,10 +1,121 @@
 {
-    "pals": [
-    ],
-    "letters": [
-    ],
-    "topics": [
-    ],
-    "lettertopics": [
-    ]
+  "authors": [
+    {
+      "id": 1,
+      "name": "Mark Twain",
+      "email": "mtwain@c49.com"
+    },
+    {
+      "id": 2,
+      "name": "Maya Angelou",
+      "email": "mangelou@c49.com"
+    },
+    {
+      "id": 3,
+      "name": "Jack Black",
+      "email": "jblack@c49.com"
+    },
+    {
+      "id": 4,
+      "name": "Peter Parker",
+      "email": "peter@c49.com"
+    },
+    {
+      "id": 5,
+      "name": "Luz Madrazo",
+      "email": "luz@c49.com"
+    },
+    {
+      "id": 6,
+      "name": "Gabriel Miranda",
+      "email": "gibby@c49.com"
+    },
+    {
+      "id": 7,
+      "name": "Melly Poppins",
+      "email": "gh@c49.com"
+    },
+    {
+      "id": 8,
+      "name": "Glen Ded",
+      "email": "glen@c49.com"
+    },
+    {
+      "id": 9,
+      "name": "Wizardly Place",
+      "email": "butter@c49.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Friendly"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Congratulations"
+    },
+    {
+      "id": 5,
+      "name": "Condolences"
+    }
+  ],
+  "letters": [
+    {
+      "authorId": "3",
+      "recipientId": "9",
+      "body": "Hello there, nice to see you!",
+      "topicId": "2",
+      "timestamp": 1623869578067,
+      "id": 1
+    },
+    {
+      "authorId": "4",
+      "recipientId": "7",
+      "body": "Lovely weather we are having!",
+      "topicId": "1",
+      "timestamp": 1623869578039,
+      "id": 2
+    },
+    {
+      "authorId": "2",
+      "recipientId": "1",
+      "body": "Have you gone to the movies lately?",
+      "topicId": "3",
+      "timestamp": 1623869578034,
+      "id": 3
+    },
+    {
+      "authorId": "2",
+      "recipientId": "1",
+      "body": "Nss is the best in the best!",
+      "topicId": "2",
+      "timestamp": 1623869578028,
+      "id": 4
+    },
+    {
+      "authorId": "5",
+      "recipientId": "1",
+      "body": "You already know that is the burger on the left!",
+      "topicId": "4",
+      "timestamp": 1623869578026,
+      "id": 5
+    },
+    {
+      "authorId": "3",
+      "recipientId": "4",
+      "body": "Nacho libre all the way!",
+      "topicId": "2",
+      "timestamp": 1624320287042,
+      "id": 6
+    }
+  ]
 }
